@@ -1,0 +1,57 @@
+
+
+    .container{
+      flex: 1;
+      justify-content: center;
+      align-items: center;
+      padding: 20
+    }
+  
+    .header {
+      font-size: 25;
+      margin-top: 48;
+      text-align: left;
+      font-weight: 800;
+      margin-bottom: 22
+    }
+
+    .labelText{
+      color: grey;
+      font-size: 15;
+      font-weight: bold;
+      margin-bottom: 5
+    }
+
+    .textInput{
+      height: 40;
+      border-width: 1;
+      border-radius: 5;
+      margin-bottom: 20;
+      color: grey;
+      width: 310;
+      padding: 10;
+      border-color: grey
+    }
+
+    .image{
+      width: 228; 
+      height: 258; 
+      margin-top: 89
+    }
+  
+    .button{
+      background-color: #FF5555;
+      height: 40;
+      width: 310;
+      margin-top: 25;
+      border-radius: 5;
+      justify-content: center;
+    }
+
+    .textButton {
+      color: #FFF;
+      font-weight: bold;
+      border-radius: 5;
+      text-align: center;
+    }
+  

@@ -1,0 +1,10 @@
+.container {
+        flex: 1;
+        padding: 20;
+    }
+.header {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content:space-between;
+        align-items: center;
+    }
